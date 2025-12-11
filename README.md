@@ -6,9 +6,9 @@ This project is a simple multi-page React application demonstrating routing usin
 
 ## 🚀 Features
 
-- ✅ Home, About, Users & User Detail pages  
-- ✅ Dynamic parameters (`/users/:id`)  
-- ✅ Global Navbar with active link highlight  
-- ✅ Functional Components & Clean Folder Structure  
-- ✅ Responsive UI (CSS/Bootstrap/Tailwind — your choice)
+-  Home, About, Users & User Detail pages  
+-  Dynamic parameters (`/users/:id`)  
+-  Global Navbar with active link highlight  
+-  Functional Components & Clean Folder Structure  
+-  Responsive UI (CSS/Bootstrap/Tailwind — your choice)
 
